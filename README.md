@@ -1,3 +1,2 @@
 # colab
-Data for lecture
 ここでは駒澤大学経済学部で開講している「経済統計a/b」で「Excel以外の手法を学ぶ意欲がある履修生向け」にColabを使ってRやPythonの最低限の知識を解説しています。
