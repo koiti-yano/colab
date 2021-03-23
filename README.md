@@ -5,10 +5,10 @@
 <br>
 注意2：内容に間違いがある可能性がありますので、十分にご注意ください。
 
-Rでやってみたい人は以下のリンク：<br>
+Rで回帰分析したい人は以下のリンク：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_R入門_0_toc.ipynb
 <br>
-Pythonでやってみたい人は以下のリンク：<br>
+Pythonで回帰分析したい人は以下のリンク：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_python入門_0_toc.ipynb
 
 <br>（駒澤大学経済学部　矢野浩一）
