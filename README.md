@@ -5,7 +5,7 @@
 <br>
 注意2：内容に間違い等が含まれる可能性がありますので、その点についてご理解のうえでご利用ください。
 <br>
-注意3：Colabについては公式サイトを参照してください。
+注意3：Colabについては公式サイトを参照してください（colaboratoryで始めるR.pdfとcolaboratoryで始めるpython.pdfは参考程度に見てください）。
 
 Rで回帰分析したい人は以下のリンク：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_R入門_0_toc.ipynb
