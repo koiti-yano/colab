@@ -13,4 +13,7 @@ https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計
 Pythonで回帰分析したい人は以下のリンク：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_python入門_0_toc.ipynb
 
+Colabについて知りたい人は以下のリンク：<br>
+https://colab.research.google.com/<br>授業用のColab紹介資料も用意しています。
+
 <br>（駒澤大学経済学部　矢野浩一）
