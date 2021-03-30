@@ -15,6 +15,7 @@ Colabについて知りたい人は以下の公式サイトを参照してくだ
 https://colab.research.google.com/<br>授業用のColab紹介資料も公開しています（colaboratoryで始めるR.pdfとcolaboratoryで始めるpython.pdf）。
 
 コメント・課題等については以下にお願いします。
+<br)
 https://github.com/koiti-yano/colab/issues
 
 <br>（駒澤大学経済学部　矢野浩一）
