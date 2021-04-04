@@ -16,6 +16,6 @@ https://colab.research.google.com/<br>授業用のColab紹介資料も公開し�
 
 コメント・課題等については以下にお願いします。
 <br>
-https://github.com/koiti-yano/colab/issues
+https://github.com/koiti-yano/colab/discussions
 
 <br>（駒澤大学経済学部　矢野浩一）
