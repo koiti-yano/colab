@@ -4,6 +4,8 @@
 注意1：あくまでも授業の補助教材ですので、R/Pythonの包括的な入門ではありません。ご注意ください。
 <br>
 注意2：このサイトの情報は無保証です。ご理解のうえご利用ください。
+注意3：Colab Notebookの実行にはgoogleアカウントが必要です。
+
 
 Rで回帰分析したい人は以下のリンクから：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_R入門_0_toc.ipynb
