@@ -15,10 +15,10 @@ https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計
 Pythonで回帰分析したい人は以下のリンクから：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_python入門_0_toc.ipynb
 
-Colabについて知りたい人は以下の公式サイトを参照してください：<br>
+Colabについて知りたい人は以下の公式サイトをご参照ください：<br>
 https://colab.research.google.com/<br>授業用のColab紹介資料も公開しています（「colaboratoryで始めるR.pdf」と「colaboratoryで始めるpython.pdf」）。
 
-コメント・課題等については以下にお願いします。
+コメント・課題等については以下にお願いいたします。
 <br>
 https://github.com/koiti-yano/colab/discussions
 
