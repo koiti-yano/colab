@@ -15,7 +15,7 @@ https://colab.research.google.com/<br>授業用のColab紹介資料も公開し�
 https://github.com/koiti-yano/colab/discussions
 
 <br>
-お断り：このサイトは履修生の学修のために作成していますが、駒澤大学社会連携・社会位貢献の一環として一般の方々にも公開しています。
+お断り：駒澤大学社会連携・社会位貢献の一環として一般の方々にも公開しています。
 <br>
 注意1：あくまでも授業の補助教材ですので、R/Pythonの包括的な入門ではありません。ご注意ください。
 <br>
