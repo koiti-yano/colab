@@ -1,5 +1,5 @@
 # ColabのR/Pythonで回帰分析（version 0.8）
-ここでは、駒澤大学経済学部で開講している「経済統計a/b」履修生向けにColab（Google Colaboratory）を使ってR/Pythonで回帰分析するやり方を解説しています（が、一般的な情報なので、インターネット上でも公開します）。
+ここでは、駒澤大学経済学部で開講している「経済統計a/b」履修生向けにColab（Google Colaboratory）を使ってR/Pythonで回帰分析するやり方を解説しています。
 
 注意1：あくまでも授業の補助教材ですので、R/Pythonの包括的な入門ではありません。ご注意ください。
 <br>
@@ -22,3 +22,4 @@ https://colab.research.google.com/<br>授業用のColab紹介資料も公開し�
 https://github.com/koiti-yano/colab/discussions
 
 <br>（駒澤大学経済学部　矢野浩一）
+（本サイトは駒澤大学の社会連携/社会貢献の一環としてインターネット上で公開します）。
