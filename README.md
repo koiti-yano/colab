@@ -21,5 +21,7 @@ https://colab.research.google.com/<br>授業用のColab紹介資料も公開し�
 <br>
 https://github.com/koiti-yano/colab/discussions
 
-<br>（駒澤大学経済学部　矢野浩一）
+<br>
+（駒澤大学経済学部　矢野浩一）
+
 このサイトは履修生の学修のために作成していますが、駒澤大学社会連携・社会位貢献の一環として一般の方々にも公開しています。
