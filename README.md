@@ -5,14 +5,14 @@
 Pythonで回帰分析したい人は以下のリンクから：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_python入門_0_toc.ipynb
 
-ColabでいきなりPythonのノートブックを作りたい人は以下のリンク：<br>
+ColabでいきなりPythonのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
 https://colab.research.google.com/notebook#create=true
 
 # Rについて
 Rで回帰分析したい人は以下のリンクから：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_R入門_0_toc.ipynb
 
-ColabでいきなりRのノートブックを作りたい人は以下のリンク：<br>
+ColabでいきなりRのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
 https://colab.research.google.com/notebook#create=true&language=r
 
 # Colabについて
