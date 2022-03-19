@@ -8,12 +8,18 @@ https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計
 ColabでいきなりPythonのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
 https://colab.research.google.com/notebook#create=true
 
+Pythonについて手っ取り早く学びたい人は<br>
+https://learnxinyminutes.com/docs/python/
+
 # Rについて
 Rで回帰分析したい人は以下のリンクから：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_R入門_0_toc.ipynb
 
 ColabでいきなりRのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
 https://colab.research.google.com/notebook#create=true&language=r
+
+Rについて手っ取り早く学びたい人は<br>
+https://learnxinyminutes.com/docs/r/
 
 # Colabについて
 Colabについて知りたい人は以下の公式サイトを見てください：<br>
