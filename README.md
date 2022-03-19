@@ -9,7 +9,7 @@ ColabでいきなりPythonのノートブックを作りたい人は以下のリ
 https://colab.research.google.com/notebook#create=true
 
 Pythonについて手っ取り早く学びたい人は<br>
-https://learnxinyminutes.com/docs/python/
+https://learnxinyminutes.com/docs/ja-jp/python-jp/
 
 # Rについて
 Rで回帰分析したい人は以下のリンクから：<br>
@@ -19,7 +19,7 @@ ColabでいきなりRのノートブックを作りたい人は以下のリン�
 https://colab.research.google.com/notebook#create=true&language=r
 
 Rについて手っ取り早く学びたい人は<br>
-https://learnxinyminutes.com/docs/r/
+https://learnxinyminutes.com/docs/ja-jp/r-jp/
 
 # Colabについて
 Colabについて知りたい人は以下の公式サイトを見てください：<br>
