@@ -23,7 +23,9 @@ https://learnxinyminutes.com/docs/ja-jp/r-jp/
 
 # Colabについて
 Colabについて知りたい人は以下の公式サイトを見てください：<br>
-https://colab.research.google.com/<br>授業用のColab紹介資料も公開しています（「colaboratoryで始めるpython.pdf」と「colaboratoryで始めるR.pdf」）。
+https://colab.research.google.com/<br>
+
+補足：このサイトでは授業用に作ったColab紹介資料も公開しています（「colaboratoryで始めるpython.pdf」と「colaboratoryで始めるR.pdf」）。
 
 
 # コメント・課題等について
