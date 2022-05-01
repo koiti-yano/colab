@@ -1,4 +1,4 @@
-# ColabのPython/Rで回帰分析（version 0.8.8）
+# ColabのPython/Rで回帰分析（version 0.8.9）
 このサイトでは、駒澤大学経済学部開講「経済統計a/b」履修生向けにPython/Rで回帰分析する方法を解説します。
 Colab（Google Colaboratory）を使うことを想定しています。
 
@@ -25,6 +25,8 @@ https://colab.research.google.com/notebook#create=true&language=r
 
 Rについて手っ取り早く学びたい人は<br>
 https://learnxinyminutes.com/docs/ja-jp/r-jp/
+
+2022年4月末にColabのRが4.2.0になったため、placeholderが使えるようになりました。そのため、パイプ演算子とplaceholderの使い方を追加しました。
 
 # Colabについて
 Colabについて知りたい人は以下の公式サイトを見てください：<br>
