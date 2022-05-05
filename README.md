@@ -18,7 +18,7 @@ https://learnxinyminutes.com/docs/ja-jp/python-jp/
 
 # Rについて
 Rで回帰分析したい人は以下のリンクから：<br>
-https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_R入門_0_toc.ipynb
+https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_R入門_00_toc.ipynb
 
 ColabでいきなりRのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
 https://colab.research.google.com/notebook#create=true&language=r
