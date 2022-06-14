@@ -26,7 +26,7 @@ https://colab.research.google.com/notebook#create=true&language=r
 Rについて手っ取り早く学びたい人は<br>
 https://learnxinyminutes.com/docs/ja-jp/r-jp/
 
-2022年4月末にColabのRが4.2.0になったため、placeholderが使えるようになりました。そのため、パイプ演算子とplaceholderの使い方を追加しました。
+2022年4月末にColabのRが4.2.0になり、placeholderが使えるようになりました。そのため、パイプ演算子とplaceholderの使い方を追加しました。
 
 # Colabについて
 Colabについて知りたい人は以下の公式サイトを見てください：<br>
