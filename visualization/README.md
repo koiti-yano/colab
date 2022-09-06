@@ -1,4 +1,4 @@
-# データ可視化（data visualization）
+# データ可視化（Data Visualization）
 
 **R**
 <br>
