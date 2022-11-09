@@ -8,7 +8,7 @@ Colab（Google Colaboratory）を使うことを想定しています。
 
 # Pythonについて
 Pythonで回帰分析したい人は以下のリンクから：<br>
-https://colab.research.google.com/github/koiti-yano/colab/blob/main/経済統計_python入門_00_toc.ipynb
+https://colab.research.google.com/github/koiti-yano/colab/blob/main/python_stats_intro_00_toc.ipynb
 
 ColabでいきなりPythonのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
 https://colab.research.google.com/notebook#create=true
