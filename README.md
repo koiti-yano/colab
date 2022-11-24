@@ -7,7 +7,7 @@ Colab（Google Colaboratory）を使うことを想定しています。
 補足２：作成者はPythonよりもRの方が得意なため、Pythonの更新は滞りがちです（皆さんは好きな言語を選んでください）。
 
 # Pythonについて
-**Pythonでデータ分析[目次]**：<br>
+**Pythonでデータ分析[↓Colabノートブックへの目次]**：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/python_stats_intro_00_toc.ipynb
 
 ColabでいきなりPythonのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
@@ -17,7 +17,7 @@ Pythonについて手っ取り早く学びたい人は<br>
 https://learnxinyminutes.com/docs/ja-jp/python-jp/
 
 # Rについて
-**Rでデータ分析[目次]**：<br>
+**Rでデータ分析[↓Colabノートブックへの目次]**：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/R_stats_intro_00_toc.ipynb
 
 ColabでいきなりRのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
