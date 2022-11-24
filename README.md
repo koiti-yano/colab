@@ -1,4 +1,4 @@
-# ColabのR/Pythonでデータ分析（version 0.9.）
+# ColabのR/Pythonでデータ分析（version 0.9.1）
 このサイトでは、駒澤大学経済学部開講「経済統計a/b」履修生向けにR/Pythonでデータ分析する方法を解説します（授業の目標は重回帰です。授業の趣旨から機械学習などの高度な内容は目指していません）。
 Colab（Google Colaboratory）を使うことを想定しています。
 
