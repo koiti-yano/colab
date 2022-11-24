@@ -1,4 +1,4 @@
-# ColabのPython/Rで回帰分析（version 0.9.0）
+# ColabのPython/Rでデータ分析（version 0.9.0）
 このサイトでは、駒澤大学経済学部開講「経済統計a/b」履修生向けにPython/Rで回帰分析する方法を解説します。
 Colab（Google Colaboratory）を使うことを想定しています。
 
@@ -7,7 +7,7 @@ Colab（Google Colaboratory）を使うことを想定しています。
 補足２：作成者はPythonよりもRの方が得意なため、Pythonの更新は滞りがちです（皆さんは好きな言語を選んでください）。
 
 # Pythonについて
-Pythonで回帰分析したい人は以下のリンクから：<br>
+Pythonでデータ分析したい人は以下のリンクから：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/python_stats_intro_00_toc.ipynb
 
 ColabでいきなりPythonのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
@@ -17,7 +17,7 @@ Pythonについて手っ取り早く学びたい人は<br>
 https://learnxinyminutes.com/docs/ja-jp/python-jp/
 
 # Rについて
-Rで回帰分析したい人は以下のリンクから：<br>
+Rでデータ分析したい人は以下のリンクから：<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/R_stats_intro_00_toc.ipynb
 
 ColabでいきなりRのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
