@@ -8,7 +8,7 @@ Colab（Google Colaboratory）を使うことを想定しています。
 
 # Rでデータ分析
 **「Rでデータ分析」の目次**：<br>
-https://colab.research.google.com/github/koiti-yano/colab/blob/main/R_stats_intro_00_toc.ipynb
+https://colab.research.google.com/github/koiti-yano/colab/blob/main/R/R_stats_intro_00_toc.ipynb
 
 ColabでいきなりRのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
 https://colab.research.google.com/notebook#create=true&language=r
@@ -18,7 +18,7 @@ https://learnxinyminutes.com/docs/ja-jp/r-jp/
 
 # Pythonでデータ分析
 **「Pythonでデータ分析」の目次**：<br>
-https://colab.research.google.com/github/koiti-yano/colab/blob/main/python_stats_intro_00_toc.ipynb
+https://colab.research.google.com/github/koiti-yano/colab/blob/main/python/python_stats_intro_00_toc.ipynb
 
 ColabでいきなりPythonのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
 https://colab.research.google.com/notebook#create=true
