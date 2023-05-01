@@ -1,4 +1,4 @@
-# ColabのPython/Rでデータ分析（version 0.9.1）
+# ColabのPython/Rでデータ分析（version 0.9.2）
 このサイトでは、駒澤大学経済学部開講「応用マクロ経済学a/b」と「経済統計a/b」履修生向けにPython/RでGoogle Colaboratory上で重回帰等を実行する方法を解説します。
 
 # Pythonでデータ分析
