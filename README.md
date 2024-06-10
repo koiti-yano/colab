@@ -1,18 +1,9 @@
-# ColabのPython/Rでデータ分析（version 0.9.2）
+# ColabのR/Pythonでデータ分析（version 0.9.3）
 このサイトでは、駒澤大学経済学部開講「応用マクロ経済学a/b」と「経済統計a/b」履修生向けにPython/RでGoogle Colaboratory上で重回帰等を実行する方法を解説します。
 
-# Pythonでデータ分析
-**「Pythonでデータ分析」の目次**：<br>
-https://colab.research.google.com/github/koiti-yano/colab/blob/main/python/python_stats_intro_00_toc.ipynb
-
-ColabでいきなりPythonのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
-https://colab.research.google.com/notebook#create=true
-
-Pythonについて手っ取り早く学びたい人は<br>
-https://learnxinyminutes.com/docs/ja-jp/python-jp/
-
-# Rでデータ分析
-**「Rでデータ分析」の目次**：<br>
+## Rを学ぶ
+### 「Rでデータ分析」の目次 
+<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/R/R_stats_intro_00_toc.ipynb
 
 ColabでいきなりRのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
@@ -20,6 +11,22 @@ https://colab.research.google.com/notebook#create=true&language=r
 
 Rについて手っ取り早く学びたい人は<br>
 https://learnxinyminutes.com/docs/ja-jp/r-jp/
+
+
+## Pythonでデータ分析
+### 「Pythonでプログラミング演習」の目次：
+<br>
+https://github.com/koiti-yano/colab/blob/main/python/python_prog_intro_00_toc.ipynb
+
+### 「Pythonでデータ分析」の目次：
+<br>
+https://colab.research.google.com/github/koiti-yano/colab/blob/main/python/python_stats_intro_00_toc.ipynb
+
+ColabでいきなりPythonのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
+https://colab.research.google.com/notebook#create=true
+
+Pythonについて手っ取り早く学びたい人は<br>
+https://learnxinyminutes.com/docs/ja-jp/python-jp/
 
 
 # Colabについて
