@@ -3,7 +3,6 @@
 
 ## Rを学ぶ
 ### 「Rでデータ分析」の目次 
-<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/R/R_stats_intro_00_toc.ipynb
 
 ColabでいきなりRのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
@@ -15,11 +14,9 @@ https://learnxinyminutes.com/docs/ja-jp/r-jp/
 
 ## Pythonでデータ分析
 ### 「Pythonでプログラミング演習」の目次：
-<br>
 https://github.com/koiti-yano/colab/blob/main/python/python_prog_intro_00_toc.ipynb
 
 ### 「Pythonでデータ分析」の目次：
-<br>
 https://colab.research.google.com/github/koiti-yano/colab/blob/main/python/python_stats_intro_00_toc.ipynb
 
 ColabでいきなりPythonのノートブックを作りたい人は以下のリンクをクリックしてください：<br>
